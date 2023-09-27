@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-For the ALX Task
+This is for 0x00. Shell, basics TASK
