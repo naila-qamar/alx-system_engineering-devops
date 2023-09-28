@@ -1,6 +1,2 @@
 #!/bin/bash
-
-# Get the mode of olleh using stat and apply it to hello
-mode=$(stat -c "%a" olleh)
-chmod $mode hello
-
+chmod --reference=olleh hello
