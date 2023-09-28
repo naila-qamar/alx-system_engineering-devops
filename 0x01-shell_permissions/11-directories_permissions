@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# Find all subdirectories and add execute permissions
-find . -type d -exec chmod a+x {} \;
-
+chmod a+X */ -R
