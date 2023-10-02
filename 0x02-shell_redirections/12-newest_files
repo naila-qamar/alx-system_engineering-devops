@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to display the 10 newest files in the current directory.
 ls -lt | grep '^-' | head -10 | awk '{print $9}'
