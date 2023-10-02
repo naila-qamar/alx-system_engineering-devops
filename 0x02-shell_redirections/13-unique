@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to print only words that appear exactly once.
 sort | uniq -u
