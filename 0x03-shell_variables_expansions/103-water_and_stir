@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "b\nshtbeolhc\nchelbteb" | sed -n "$=p"
+for i in b shtbeolhc chelbteb; do echo $i; done
