@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $((0x$(echo $WATER | tr 'ewat' '1234') + 0x$(echo $STIR | tr 'tir.' '3210'))) | tr '0-9a-f' 'bestcholhij'
+
