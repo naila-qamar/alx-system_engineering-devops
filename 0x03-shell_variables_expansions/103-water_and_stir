@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "shtbeolhc"
+echo -e "b\nshtbeolhc\nchelbteb" | sed -n "$=p"
